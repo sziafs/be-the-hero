@@ -4,8 +4,7 @@ const routes = require('./routes');
 
 const app = express();
 
-// modulo de seguranca que determina quem pode acessar a aplicacao
-app.use(cors());
+app.use(cors()); // modulo de seguranca que determina quem pode acessar a aplicacao
 
 // // projeto em producao
 // app.use(cors({

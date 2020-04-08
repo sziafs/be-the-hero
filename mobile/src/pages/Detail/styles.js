@@ -33,6 +33,7 @@ export default StyleSheet.create({
         marginTop: 8,
         fontSize: 15,
         color: '#737380',
+        marginBottom: 16,
     },
 
     contactBox: {

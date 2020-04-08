@@ -25,6 +25,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.yourcompany.yourappname",
       "versionCode": 1
     }
   }

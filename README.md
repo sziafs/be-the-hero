@@ -23,8 +23,8 @@
 <p align="center">
   <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-built-with">Built With</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#heart_eyes-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pencil-author">Author</a>
 </p>
 
@@ -49,8 +49,6 @@ The heroes could easily contribute since the web page has all the information it
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## :heart_eyes: How to Use
-
 ## 🤔 How to Contribute
 
 - Clone the project: `git clonegit@github.com:Silve1ra/be-the-hero.git`;
@@ -59,6 +57,12 @@ The heroes could easily contribute since the web page has all the information it
 - Push to your branch: `git push -u origin my-feature`.
 
 Then after merging your pull request you can now delete your local branch.
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+
+---
 
 ## :pencil: Author
 

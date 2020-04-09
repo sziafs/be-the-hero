@@ -1,11 +1,23 @@
+<h1 align="center">
+    <img alt="BeTheHero" title="#be-the-hero" src="./mobile/src/assets/logo@3x.png" width="250px" />
+</h1>
+ 
 <h4 align="center">
-<img src="./mobile/src/assets/logo@3x.png" width="250px" /><br>
- <strong align="center">A Web-Mobile application to help NGOs spreading their incidents and getting helpers!</strong>
+  🚀 A Web-Mobile application to help NGOs spreading their incidents and getting helpers!
 </h4>
+
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-purple">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Silve1ra/be-the-hero">
+  
+  <a href="https://github.com/Silve1ra/be-the-hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Silve1ra/be-the-hero">
   </a>
+
+  <a href="https://github.com/Silve1ra/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Silve1ra/be-the-hero">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">

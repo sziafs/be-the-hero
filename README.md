@@ -35,11 +35,11 @@
 
 ## :page_with_curl: About
 
-This project is part of a free code week provide by [Rocketseat](https://rocketseat.com.br/). This week the main point was to teach how to built a full-stack app using react. 
+This project is part of a free code week mentored by [Rocketseat](https://rocketseat.com.br/).
 
-It was built an application where the ONGs can store and spread their incidents. It is possible to store information about each incident and the value each ONG needs to deal with the incident so anyone interested in help can contribute. 
+This is a application where NGOs could post incidents, in order to, get help from someone probably interested in their incident. 
 
-The heroes could easily contribute since the web page has all the information it's needed and the mobile app has a place where the user can send a WhatsApp message or Email directly to the selected NGO.
+The heroes (helpers) could easily make a contribution since the app has all the information it's needed and the mobile app has a place where the he/she could send a WhatsApp message or Email directly to the selected NGO.
 
 ## :wrench: Built With
 

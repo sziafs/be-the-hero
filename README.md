@@ -24,8 +24,7 @@
   <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-built-with">Built With</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pencil-author">Author</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <br>
@@ -64,10 +63,6 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-## :pencil: Author
-
-<table>
+Made with ♥ by <tr>
+    <td align="center"><a href="https://github.com/Silve1ra"><b>Felipe Silveira</b></a><br /></td>
   <tr>
-    <td align="center"><a href="https://github.com/Silve1ra"><img src="https://avatars2.githubusercontent.com/u/20851500?s=460&u=fd2ea2cbf3a798733ec72e7c3d294b94c5fd3cfa&v=4" width="100px;" alt=""/><br /><sub><b>Felipe Silveira</b></sub></a><br /></td>
-  <tr>
-</table>

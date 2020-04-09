@@ -37,9 +37,9 @@
 
 This project is part of a free code week mentored by [Rocketseat](https://rocketseat.com.br/).
 
-This is a application where NGOs could post incidents, in order to, get help from someone probably interested in their incident. 
+This is an application where NGOs could post incidents, to, get help from someone probably interested in their incident. 
 
-The heroes (helpers) could easily make a contribution since the app has all the information it's needed and the mobile app has a place where the he/she could send a WhatsApp message or Email directly to the selected NGO.
+The heroes (helpers) could easily contribute since the app has all the information it's needed and the mobile app has a place where the he/she could send a WhatsApp message or Email directly to the selected NGO.
 
 ## :wrench: Built With
 

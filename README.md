@@ -55,7 +55,7 @@ The heroes (helpers) could easily make a contribution since the app has all the 
 - Commit your feature: `git commit -m 'feat: My new feature'`;
 - Push to your branch: `git push -u origin my-feature`.
 
-Then after merging your pull request you can now delete your local branch.
+After the merge of your pull request is done, you can delete your branch.
 
 ## :memo: License
 

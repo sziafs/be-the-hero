@@ -1,20 +1,17 @@
-<h1 align="center">
-    <img alt="BeTheHero" title="#be-the-hero" src="./mobile/src/assets/logo@3x.png" width="250px" />
-</h1>
- 
+
 <h4 align="center">
-  🚀 A Web-Mobile application to help NGOs spreading their incidents and getting helpers!
+  🚀 A Web-Mobile application to find developers around you!
 </h4>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Silve1ra/be-the-hero">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Silve1ra/dev-tracker">
   
-  <a href="https://github.com/Silve1ra/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Silve1ra/be-the-hero">
+  <a href="https://github.com/Silve1ra/dev-tracker/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Silve1ra/dev-tracker">
   </a>
 
-  <a href="https://github.com/Silve1ra/be-the-hero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Silve1ra/be-the-hero">
+  <a href="https://github.com/Silve1ra/dev-tracker/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Silve1ra/dev-tracker">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -30,16 +27,14 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src="frontend/src/assets/bethehero.png" width="100%">
+  <img alt="devTracker" src="frontend/src/assets/devTracker.png" width="100%">
 </p>
 
 ## :page_with_curl: About
 
 This project is part of a free code week mentored by [Rocketseat](https://rocketseat.com.br/).
 
-This is an application where NGOs could post incidents, to, get help from someone probably interested in their incident. 
-
-The heroes (helpers) could easily contribute since the app has all the information it's needed and the mobile app has a place where the he/she could send a WhatsApp message or Email directly to the selected NGO.
+This is an application where developers could register their github username, and them find other developers that are around them, filtering by distance and programming languages.
 
 ## :wrench: Built With
 
@@ -50,7 +45,7 @@ The heroes (helpers) could easily contribute since the app has all the informati
 
 ## 🤔 How to Contribute
 
-- Clone the project: `git clonegit@github.com:Silve1ra/be-the-hero.git`;
+- Clone the project: `git clonegit@github.com:Silve1ra/dev-tracker.git`;
 - Create your branch with your feature: `git checkout -b my-feature`;
 - Commit your feature: `git commit -m 'feat: My new feature'`;
 - Push to your branch: `git push -u origin my-feature`.

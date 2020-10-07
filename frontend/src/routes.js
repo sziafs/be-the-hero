@@ -9,7 +9,7 @@ import Incident from './pages/Incident';
 export default function Routes() {
     return (
         <BrowserRouter>
-            <Switch>
+            <Switch> {/* switch p/ chamar apenas 1 rota por vez */}
                 <Route path="/" exact component={Logon} />
                 <Route path="/register" component={Register} />
                 <Route path="/profile" component={Profile} />

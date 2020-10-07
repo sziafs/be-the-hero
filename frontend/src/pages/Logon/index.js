@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useHistory } from 'react-router-dom';
-import { FiLogIn } from 'react-icons/fi'; //father icons
+import { FiLogIn } from 'react-icons/fi'; //feather icons
 
 import api from '../../services/api';
 import './styles.css';
@@ -42,9 +42,10 @@ export default function Logon() {
                     />
                     <button className="button" type="submit">Login</button>
 
+                    {/* Link ao inves de <a> p/ nao recarregar toda a page*/}
                     <Link className="back-link" to="/register">
-                        <FiLogIn size={16} color="#E02041" />
-                        I don't have an account
+                        <FiLogIn size={16} color="#ef233c" />
+                        <p>I don't have an account</p>
                     </Link>
                 </form>
             </section>

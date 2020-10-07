@@ -1,9 +1,8 @@
-
 exports.up = function(knex) {
     return knex.schema.createTable('incidents', function(table){ 
+        //campos
         table.increments(); //primary key
-
-        table.string('title').notNullable(); // campos
+        table.string('title').notNullable();
         table.string('description').notNullable();
         table.decimal('value').notNullable();
 

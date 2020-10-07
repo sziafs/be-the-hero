@@ -8,7 +8,7 @@ const ProfileController = require('./controllers/ProfileController');
 const routes = express.Router();
 
 routes.get('/', (req, res) => {
-    return res.send('API Working!');
+    return res.json({message: 'API Working!'});
 });
 
 routes.post('/sessions', SessionController.store);

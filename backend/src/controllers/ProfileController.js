@@ -1,6 +1,8 @@
 const connection = require('../database/connection');
 
 module.exports = {
+
+    // retornar os dados especificos de uma unica ong
     async index(req, res) {
         const ong_id = req.headers.authorization;
 

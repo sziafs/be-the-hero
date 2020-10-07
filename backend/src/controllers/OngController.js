@@ -1,15 +1,15 @@
-const crypto = require('crypto');
+const crypto = require('crypto'); //gera string aleatoria
 const connection = require('../database/connection');
 
 module.exports = {
     async index(req, res) {
-    const ongs = await connection('ongs').select('*');
+        const ongs = await connection('ongs').select('*');
 
-    return res.json(ongs);
+        return res.json(ongs);
     },
 
     async store(req, res) {
-        const { name, email, whatsapp, city, state } = req.body;
+        const { name, email, whatsapp, city, uf } = req.body;
         const id = crypto.randomBytes(4).toString('HEX');
 
         await connection('ongs').insert({
@@ -18,7 +18,7 @@ module.exports = {
             email,
             whatsapp,
             city,
-            state,
+            uf,
         });
 
         return res.json({ id });

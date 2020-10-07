@@ -1,4 +1,10 @@
-// Update with your config settings.
+// Query builder
+// table('users').select('*').where()...
+// npx knex init
+
+// knex migrate:make create_ongs
+
+// npx knex migrate:latest
 
 module.exports = {
 

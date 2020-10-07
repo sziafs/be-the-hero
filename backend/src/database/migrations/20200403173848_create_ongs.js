@@ -1,3 +1,5 @@
+// up: responsavel pela criacao da tabela, quando executa a migration
+// down: se der problemam e precisar voltar a tras, o que precisa ser feito para desfazer
 
 exports.up = function(knex) {
     return knex.schema.createTable('ongs', function(table){
@@ -6,7 +8,7 @@ exports.up = function(knex) {
         table.string('email').notNullable();
         table.string('whatsapp').notNullable();
         table.string('city').notNullable();
-        table.string('state', 2).notNullable();
+        table.string('uf', 2).notNullable();
     });
 };
 

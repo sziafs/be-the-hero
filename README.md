@@ -33,6 +33,8 @@
   <img alt="BeTheHero" src="frontend/src/assets/bethehero.png" width="100%"
 </p>
 
+[Live preview](https://clever-darwin-e9d766.netlify.app/)
+
 ## :page_with_curl: About
 
 This project is part of a free code week mentored by [Rocketseat](https://rocketseat.com.br/).

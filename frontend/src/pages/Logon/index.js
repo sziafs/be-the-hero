@@ -17,9 +17,12 @@ export default function Logon() {
 
         try {
             const res = await api.post('sessions', { id });
+            console.log(res)
 
             localStorage.setItem('ongId', id);
-            localStorage.setItem('ongName', res.data.name);
+            // localStorage.setItem('ongName', res.data.name);
+            localStorage.setItem('ongName', res.data);
+
 
             history.push('/profile');
         }catch(err){

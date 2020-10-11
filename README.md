@@ -33,7 +33,7 @@
   <img alt="BeTheHero" src="frontend/src/assets/bethehero.png" width="100%"
 </p>
 
-[Live preview](https://clever-darwin-e9d766.netlify.app/)
+[Live preview](https://bethehero-client.netlify.app)
 
 ## :page_with_curl: About
 

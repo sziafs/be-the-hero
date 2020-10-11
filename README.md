@@ -32,8 +32,11 @@
 <p align="center">
   <img alt="BeTheHero" src="frontend/src/assets/bethehero.png" width="100%"
 </p>
+    
+    
+## :computer: Live Preview
 
-[Live preview](https://bethehero-client.netlify.app)
+You can access this website demo version at the following link [Demo Version](https://bethehero-client.netlify.app)
 
 ## :page_with_curl: About
 
